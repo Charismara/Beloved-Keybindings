@@ -11,6 +11,7 @@ Minecraft Version:
 Forge Version:
 Mod Version:
 Debug Log Link:
+Your MC UUID:
 
 **Describe the bug**
 A clear and concise description of what the bug is.
